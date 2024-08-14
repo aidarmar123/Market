@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MarketWPF.Models;
+using MarketWPF.Windows;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,21 +25,45 @@ namespace MarketWPF.Pages
         public ListProductsPage()
         {
             InitializeComponent();
+            Refresh();
+        }
+
+        private void Refresh()
+        {
+            LVProduct.ItemsSource = App.DB.Product.ToList();
         }
 
         private void BAddProduct_Click(object sender, RoutedEventArgs e)
         {
-
+            new AddProductWindow(new Product()).ShowDialog();
+            Refresh();
         }
 
         private void BDelete_Click(object sender, RoutedEventArgs e)
         {
-
+            if (LVProduct.SelectedItem is Product product)
+            {
+                App.DB.Product.Remove(product);
+                App.DB.SaveChanges();
+                Refresh();
+                BEdit.IsEnabled = false;
+            }
         }
 
         private void BEdit_Click(object sender, RoutedEventArgs e)
         {
+            if(LVProduct.SelectedItem is Product product)
+            {
+                new AddProductWindow (product).ShowDialog();
+                Refresh();
+                BEdit.IsEnabled = false;
+            }
+        }
 
+        private void LVProduct_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            BDelete.IsEnabled = true;
+            BEdit.IsEnabled = true;
         }
     }
 }

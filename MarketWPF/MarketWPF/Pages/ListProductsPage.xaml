@@ -13,21 +13,28 @@
             <RowDefinition/>
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
-        <ListView x:Name="LVProduct">
+        <ListView x:Name="LVProduct"
+                  SelectionChanged="LVProduct_SelectionChanged"
+                  ScrollViewer.HorizontalScrollBarVisibility="Disabled">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
                         <TextBlock Text="{Binding Name, StringFormat='Name: {0}'}"/>
                         <TextBlock Text="{Binding Price, StringFormat='Price: {0} RUB'}"/>
                         <Expander>
-                            <ListView ItemsSource="{Binding ImageProduct}">
+                            <ListView ItemsSource="{Binding ImageProduct}"
+                                      BorderThickness="0"
+                                      Background="Transparent"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Disabled">
                                 <ListView.ItemTemplate>
                                     <DataTemplate>
+                                        <StackPanel >
                                         <Image Source="{Binding Image}"
                                                Width="150"
                                                Height="100"
                                                Stretch="Fill"
                                                RenderOptions.BitmapScalingMode="Fant"/>
+                                        </StackPanel>
                                     </DataTemplate>
                                 </ListView.ItemTemplate>
                                 <ItemsControl.ItemsPanel>
