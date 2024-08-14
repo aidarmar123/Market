@@ -18,14 +18,16 @@ namespace MarketWPF.Models
         public Product()
         {
             this.HistorySkan = new HashSet<HistorySkan>();
+            this.ImageProduct = new HashSet<ImageProduct>();
         }
     
         public int Id { get; set; }
         public string Name { get; set; }
         public int Price { get; set; }
-        public byte[] Image { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<HistorySkan> HistorySkan { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<ImageProduct> ImageProduct { get; set; }
     }
 }

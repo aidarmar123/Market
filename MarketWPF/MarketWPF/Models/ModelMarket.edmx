@@ -14,6 +14,14 @@
           <Property Name="ProductId" Type="int" Nullable="false" />
           <Property Name="UserId" Type="int" Nullable="false" />
         </EntityType>
+        <EntityType Name="ImageProduct">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Image" Type="image" Nullable="false" />
+          <Property Name="ProductId" Type="int" Nullable="false" />
+        </EntityType>
         <EntityType Name="Product">
           <Key>
             <PropertyRef Name="Id" />
@@ -21,7 +29,6 @@
           <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
           <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
           <Property Name="Price" Type="int" Nullable="false" />
-          <Property Name="Image" Type="image" Nullable="false" />
         </EntityType>
         <EntityType Name="Role">
           <Key>
@@ -76,6 +83,18 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Association Name="FK_ImageProduct_Product">
+          <End Role="Product" Type="Self.Product" Multiplicity="1" />
+          <End Role="ImageProduct" Type="Self.ImageProduct" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ImageProduct">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <Association Name="FK_User_Role">
           <End Role="Role" Type="Self.Role" Multiplicity="1" />
           <End Role="User" Type="Self.User" Multiplicity="*" />
@@ -90,6 +109,7 @@
         </Association>
         <EntityContainer Name="Хранилище MarketModelContainer">
           <EntitySet Name="HistorySkan" EntityType="Self.HistorySkan" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ImageProduct" EntityType="Self.ImageProduct" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
@@ -101,6 +121,10 @@
           <AssociationSet Name="FK_HistorySkan_User" Association="Self.FK_HistorySkan_User">
             <End Role="User" EntitySet="User" />
             <End Role="HistorySkan" EntitySet="HistorySkan" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ImageProduct_Product" Association="Self.FK_ImageProduct_Product">
+            <End Role="Product" EntitySet="Product" />
+            <End Role="ImageProduct" EntitySet="ImageProduct" />
           </AssociationSet>
           <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
             <End Role="Role" EntitySet="Role" />
@@ -123,6 +147,15 @@
           <NavigationProperty Name="Product" Relationship="Self.FK_HistorySkan_Product" FromRole="HistorySkan" ToRole="Product" />
           <NavigationProperty Name="User" Relationship="Self.FK_HistorySkan_User" FromRole="HistorySkan" ToRole="User" />
         </EntityType>
+        <EntityType Name="ImageProduct">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+          <Property Name="ProductId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Product" Relationship="Self.FK_ImageProduct_Product" FromRole="ImageProduct" ToRole="Product" />
+        </EntityType>
         <EntityType Name="Product">
           <Key>
             <PropertyRef Name="Id" />
@@ -130,8 +163,8 @@
           <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
           <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
           <Property Name="Price" Type="Int32" Nullable="false" />
-          <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
           <NavigationProperty Name="HistorySkan" Relationship="Self.FK_HistorySkan_Product" FromRole="Product" ToRole="HistorySkan" />
+          <NavigationProperty Name="ImageProduct" Relationship="Self.FK_ImageProduct_Product" FromRole="Product" ToRole="ImageProduct" />
         </EntityType>
         <EntityType Name="Role">
           <Key>
@@ -189,6 +222,18 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Association Name="FK_ImageProduct_Product">
+          <End Role="Product" Type="Self.Product" Multiplicity="1" />
+          <End Role="ImageProduct" Type="Self.ImageProduct" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Product">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ImageProduct">
+              <PropertyRef Name="ProductId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
         <Association Name="FK_User_Role">
           <End Role="Role" Type="Self.Role" Multiplicity="1" />
           <End Role="User" Type="Self.User" Multiplicity="*" />
@@ -203,6 +248,7 @@
         </Association>
         <EntityContainer Name="MarketEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="HistorySkan" EntityType="Self.HistorySkan" />
+          <EntitySet Name="ImageProduct" EntityType="Self.ImageProduct" />
           <EntitySet Name="Product" EntityType="Self.Product" />
           <EntitySet Name="Role" EntityType="Self.Role" />
           <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
@@ -214,6 +260,10 @@
           <AssociationSet Name="FK_HistorySkan_User" Association="Self.FK_HistorySkan_User">
             <End Role="User" EntitySet="User" />
             <End Role="HistorySkan" EntitySet="HistorySkan" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ImageProduct_Product" Association="Self.FK_ImageProduct_Product">
+            <End Role="Product" EntitySet="Product" />
+            <End Role="ImageProduct" EntitySet="ImageProduct" />
           </AssociationSet>
           <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
             <End Role="Role" EntitySet="Role" />
@@ -236,13 +286,21 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
+          <EntitySetMapping Name="ImageProduct">
+            <EntityTypeMapping TypeName="MarketModel.ImageProduct">
+              <MappingFragment StoreEntitySet="ImageProduct">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Image" ColumnName="Image" />
+                <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
           <EntitySetMapping Name="Product">
             <EntityTypeMapping TypeName="MarketModel.Product">
               <MappingFragment StoreEntitySet="Product">
                 <ScalarProperty Name="Id" ColumnName="Id" />
                 <ScalarProperty Name="Name" ColumnName="Name" />
                 <ScalarProperty Name="Price" ColumnName="Price" />
-                <ScalarProperty Name="Image" ColumnName="Image" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

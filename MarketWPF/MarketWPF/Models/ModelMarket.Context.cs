@@ -26,6 +26,7 @@ namespace MarketWPF.Models
         }
     
         public virtual DbSet<HistorySkan> HistorySkan { get; set; }
+        public virtual DbSet<ImageProduct> ImageProduct { get; set; }
         public virtual DbSet<Product> Product { get; set; }
         public virtual DbSet<Role> Role { get; set; }
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }

@@ -6,7 +6,20 @@
         xmlns:local="clr-namespace:MarketWPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Frame">
+            <Setter Property="NavigationUIVisibility"
+                    Value="Hidden"/>
+        </Style>
+    </Window.Resources>
     <Grid>
-        
+        <TabControl>
+            <TabItem Header="Products">
+                <Frame x:Name="ProductFrame"/>
+            </TabItem>
+            <TabItem Header="History Scan">
+                <Frame x:Name="HistoryFrame"/>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>

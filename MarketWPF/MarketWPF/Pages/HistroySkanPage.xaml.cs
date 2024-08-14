@@ -1,5 +1,4 @@
-﻿using MarketWPF.Pages;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,18 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MarketWPF
+namespace MarketWPF.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для HistroySkanPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class HistroySkanPage : Page
     {
-        public MainWindow()
+        public HistroySkanPage()
         {
             InitializeComponent();
-            ProductFrame.Navigate(new ListProductsPage());
-            HistoryFrame.Navigate(new HistroySkanPage());
         }
     }
 }
