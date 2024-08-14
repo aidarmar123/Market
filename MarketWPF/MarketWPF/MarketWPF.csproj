@@ -64,6 +64,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Service\ValidationLine.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -92,6 +93,7 @@
     <Compile Include="Models\ImageProduct.cs">
       <DependentUpon>ModelMarket.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\MetaData\MetaProduct.cs" />
     <Compile Include="Models\ModelMarket.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
