@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\MarkelApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\markelapi\\markelapi\\models\\modelmarket.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\models\\modelmarket.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelMarket.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Models\\ModelMarket.edmx",
+              "RelativeDocumentMoniker": "MarkelApi\\Models\\ModelMarket.edmx",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Models\\ModelMarket.edmx [Diagram1]",
+              "RelativeToolTip": "MarkelApi\\Models\\ModelMarket.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-15T13:44:16.791Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
