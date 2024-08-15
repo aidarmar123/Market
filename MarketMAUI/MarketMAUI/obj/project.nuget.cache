@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSTGtt9Ze9bZ8PhWgxB+asq+LtjCnQcxH3cj8gNW/lWgUBVRI6C1nEkaw/XF/rdIrFnMxcpVJyT5US9Z3z38/w==",
+  "dgSpecHash": "WNjMS0vX2JB0N1YktBt35g/UsySVivcWUskiFUAMF83VTl4EIvlHFCJ25+pvzch+sUvAxnfixivO5EwOJjLLoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Айдар\\source\\repos\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj",
+  "projectFilePath": "C:\\Users\\Айдар\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айдар\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Айдар\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

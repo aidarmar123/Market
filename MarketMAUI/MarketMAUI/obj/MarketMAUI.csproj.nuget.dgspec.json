@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Айдар\\source\\repos\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj": {}
+    "C:\\Users\\Айдар\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Айдар\\source\\repos\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj": {
+    "C:\\Users\\Айдар\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Айдар\\source\\repos\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj",
+        "projectUniqueName": "C:\\Users\\Айдар\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj",
         "projectName": "MarketMAUI",
-        "projectPath": "C:\\Users\\Айдар\\source\\repos\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj",
+        "projectPath": "C:\\Users\\Айдар\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MarketMAUI.csproj",
         "packagesPath": "C:\\Users\\Айдар\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Айдар\\source\\repos\\MarketMAUI\\MarketMAUI\\obj\\",
+        "outputPath": "C:\\Users\\Айдар\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

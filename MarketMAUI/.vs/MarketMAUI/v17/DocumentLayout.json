@@ -1,12 +1,120 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\MarketMAUI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\marketmaui\\marketmaui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\marketmaui\\marketmaui\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\marketmaui\\marketmaui\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\marketmaui\\marketmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\marketmaui\\marketmaui\\models\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\marketmaui\\marketmaui\\models\\histroyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\histroyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MarketMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml",
+              "RelativeToolTip": "MarketMAUI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-15T13:14:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageProduct.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\ImageProduct.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Models\\ImageProduct.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\ImageProduct.cs",
+              "RelativeToolTip": "MarketMAUI\\Models\\ImageProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:12:38.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistroySkan.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\HistroySkan.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Models\\HistroySkan.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\HistroySkan.cs",
+              "RelativeToolTip": "MarketMAUI\\Models\\HistroySkan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:12:00.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\Product.cs",
+              "RelativeToolTip": "MarketMAUI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:11:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\Role.cs",
+              "RelativeToolTip": "MarketMAUI\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:11:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\User.cs",
+              "RelativeToolTip": "MarketMAUI\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:10:10.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
