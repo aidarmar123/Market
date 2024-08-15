@@ -9,6 +9,7 @@
 
 namespace MarkelApi.Models
 {
+    using Newtonsoft.Json;
     using System;
     using System.Collections.Generic;
     
@@ -27,9 +28,10 @@ namespace MarkelApi.Models
         public string Login { get; set; }
         public string Password { get; set; }
         public int RoleId { get; set; }
-    
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+
+        [JsonIgnore]
         public virtual ICollection<HistorySkan> HistorySkan { get; set; }
+        [JsonIgnore]
         public virtual Role Role { get; set; }
     }
 }

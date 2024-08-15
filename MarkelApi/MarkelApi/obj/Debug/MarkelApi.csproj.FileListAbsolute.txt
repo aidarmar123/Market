@@ -93,3 +93,7 @@ C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\obj\Debug\MarkelApi.
 C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\obj\Debug\MarkelApi.csproj.Up2Date
 C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\obj\Debug\MarkelApi.dll
 C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\obj\Debug\MarkelApi.pdb
+C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\bin\EntityFramework.dll
+C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\bin\EntityFramework.xml
+C:\Users\Айдар\source\repos\Market\MarkelApi\MarkelApi\bin\EntityFramework.SqlServer.xml
