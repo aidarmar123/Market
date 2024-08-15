@@ -10,5 +10,18 @@
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("models/modelmarket.context.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("models/modelmarket.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dylib")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dylib")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dylib")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
 
 

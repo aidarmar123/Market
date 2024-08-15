@@ -64,6 +64,17 @@ namespace MarketWPF.Pages
         {
             BDelete.IsEnabled = true;
             BEdit.IsEnabled = true;
+            BCreate.IsEnabled = true;
+        }
+
+        private void BCreate_Click(object sender, RoutedEventArgs e)
+        {
+            if (LVProduct.SelectedItem is Product product)
+            {
+                new BarCodeWindow(product).ShowDialog();
+                Refresh();
+                BCreate.IsEnabled = false;
+            }
         }
     }
 }

@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:MarketWPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <FontFamily x:Key="BarCode">pack://application:,,,/Resourses/#Another barcode font</FontFamily>
     </Application.Resources>
 </Application>
