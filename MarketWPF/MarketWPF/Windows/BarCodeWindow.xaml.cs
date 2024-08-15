@@ -1,4 +1,5 @@
 ﻿
+using IronBarCode;
 using MarketWPF.Models;
 using System;
 using System.Collections.Generic;
@@ -23,12 +24,30 @@ namespace MarketWPF.Windows
     /// </summary>
     public partial class BarCodeWindow : Window
     {
+        public byte[] Image { get; set; }
         public BarCodeWindow(Product product)
         {
             InitializeComponent();
-            DataContext = product;
+            CreateBarCode(product);
+           // DataContext = product;
         }
 
-        
+        private void CreateBarCode(Product product)
+        {
+            var barCode = BarcodeWriter.CreateBarcode(product.BarCodeText, BarcodeWriterEncoding.Code128);
+            barCode.ResizeTo(400, 100);
+
+            
+            
+            Image = barCode.ToBitmap().GetBytes();
+            DataContext = null;
+            DataContext = this;
+
+
+
+            
+           
+
+        }
     }
 }

@@ -23,5 +23,10 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("libskiasharp.so")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ironbarcodeinterop.so")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ironbarcodeinterop.dylib")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ironbarcodeinterop.dylib")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ironbarcodeinterop.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ironbarcodeinterop.dll")]
 
 

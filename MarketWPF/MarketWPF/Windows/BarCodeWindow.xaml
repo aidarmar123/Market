@@ -12,5 +12,6 @@
                    VerticalAlignment="Center"
                    FontSize="220"
                    Text="{Binding BarCodeText}"/>
+        <Image Source="{Binding Image}"/>
     </Grid>
 </Window>
