@@ -9,7 +9,7 @@ namespace MarketMAUI.Service
 {
     public static class NetManager
     {
-        public static string URL = "";
+        public static string URL = "http://localhost:55419/";
         public static HttpClient httpClient = new HttpClient();
 
         public static async Task<T> Get<T>(string path)

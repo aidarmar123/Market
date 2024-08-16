@@ -18,8 +18,9 @@ namespace MarketMAUI.Service
         public static async Task Init()
         {
             historySkans = await NetManager.Get<List<HistorySkan>>("api/HistorySkans");
-            imageProducts = await NetManager.Get<List<ImageProduct>>("api/ImageProducts");
+           
             products = await NetManager.Get<List<Product>>("api/Products");
+            imageProducts = await NetManager.Get<List<ImageProduct>>("api/ImageProducts");
             roles = await NetManager.Get<List<Role>>("api/Roles");
             users = await NetManager.Get<List<User>>("api/Users");
         }

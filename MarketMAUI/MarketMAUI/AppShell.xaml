@@ -4,17 +4,18 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:MarketMAUI"
+    xmlns:pages ="clr-namespace:MarketMAUI.Pages"
     Shell.FlyoutBehavior="Disabled"
     Title="MarketMAUI">
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        ContentTemplate="{DataTemplate pages:ProductsPage}"
+         />
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Title="Camera"
+        ContentTemplate="{DataTemplate pages:ProductsPage}"
+         />
     
 
 </Shell>

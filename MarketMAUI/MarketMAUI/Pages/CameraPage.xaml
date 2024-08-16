@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarketMAUI.Pages.CameraPage"
+             Title="CameraPage">
+    <VerticalStackLayout>
+        <CarouselView x:Name="LV">
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <Frame>
+                        <VerticalStackLayout>
+                            <Image Source="{Binding image}"
+                                   WidthRequest="100"
+                                   HeightRequest="100"
+                           />
+                            <Label Text="{Binding gImage}"/>
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+    </VerticalStackLayout>
+</ContentPage>

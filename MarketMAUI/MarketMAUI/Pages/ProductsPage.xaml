@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarketMAUI.Pages.ProductsPage"
+             Title="ProductsPage">
+    
+        <ScrollView>
+            <VerticalStackLayout Margin="20">
+                <ListView x:Name="LVProduct"
+                          HorizontalOptions="Center"
+                          SelectionMode="Single"
+                          ItemSelected="LVProduct_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                            <StackLayout Margin="10">
+                                <Label Text="{Binding Name}"
+       FontSize="32"
+       HorizontalOptions="Center"/>
+                                <CarouselView ItemsSource="{Binding ImageProduct}"
+                                              HorizontalOptions="Center">
+                                    <CarouselView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Frame Margin="5"
+                                                   >
+                                                <VerticalStackLayout>
+                                                    <Image Source="{Binding image}"
+                                                           WidthRequest="200"
+HeightRequest="150"/>
+                                                </VerticalStackLayout>
+                                            </Frame>
+                                        </DataTemplate>
+                                    </CarouselView.ItemTemplate>
+                                    
+                                </CarouselView>
+
+                                <Label Text="{Binding Price, StringFormat='Price: {0} RUB'}"
+                                       HorizontalOptions="Center"
+                                       FontSize="24"/>
+                            </StackLayout>
+                           
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </VerticalStackLayout>
+            
+        </ScrollView>
+   
+</ContentPage>
