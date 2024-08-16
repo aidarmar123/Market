@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-16T14:21:13.593</Modified>
+      <Modified>2024-08-16T15:02:48.458</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-16T13:52:48.314</Modified>
+      <Modified>2024-08-16T14:45:20.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.runtimeconfig.json">
       <PackagePath>MarketMAUI.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.dll">
       <PackagePath>MarketMAUI.dll</PackagePath>
-      <Modified>2024-08-16T14:21:13.271</Modified>
+      <Modified>2024-08-16T15:02:48.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MarketMAUI.exe</PackagePath>
-      <Modified>2024-08-16T14:21:13.277</Modified>
+      <Modified>2024-08-16T15:02:48.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.deps.json">
       <PackagePath>MarketMAUI.deps.json</PackagePath>
-      <Modified>2024-08-16T13:52:48.143</Modified>
+      <Modified>2024-08-16T14:45:20.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Айдар\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

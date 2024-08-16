@@ -36,6 +36,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.CameraPag
 build_metadata.AdditionalFiles.TargetPath = Pages\CameraPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\CameraPage.xaml
 
+[C:/Users/Айдар/source/repos/Market/MarketMAUI/MarketMAUI/Pages/CurrentProductPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.CurrentProductPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CurrentProductPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CurrentProductPage.xaml
+
 [C:/Users/Айдар/source/repos/Market/MarketMAUI/MarketMAUI/Pages/ProductsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.ProductsPage.xaml

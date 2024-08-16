@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarketMAUI.Pages.CurrentProductPage"
+             Title="CurrentProductPage">
+    <ScrollView>
+        <VerticalStackLayout x:Name="Content"
+                     Margin="50">
+            <CollectionView ItemsSource="{Binding ImageProduct}"
+                            x:Name="CVImages">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Image Source="{Binding image}"
+                                   Aspect="Fill"
+   WidthRequest="300"
+   HeightRequest="200"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical" 
+                                     Span="2"/>
+                </CollectionView.ItemsLayout>
+            </CollectionView>
+            <Label Text="{Binding Name}"
+           FontSize="Header"/>
+            <Label Text="{Binding Price, StringFormat='Price: {0} Rub'}"
+           FontSize="Body"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>

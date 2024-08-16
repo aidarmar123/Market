@@ -1,4 +1,5 @@
 
+using MarketMAUI.Models;
 using MarketMAUI.Service;
 
 namespace MarketMAUI.Pages;
@@ -19,8 +20,11 @@ public partial class ProductsPage : ContentPage
 		LVProduct.ItemsSource = DataManager.products;
     }
 
-    private void LVProduct_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+    private async void LVProduct_ItemSelected(object sender, SelectedItemChangedEventArgs e)
     {
-
+		if(LVProduct.SelectedItem is Product product)
+		{
+			await Navigation.PushAsync(new CurrentProductPage(product));
+		}
     }
 }

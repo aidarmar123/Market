@@ -8,14 +8,16 @@
     Shell.FlyoutBehavior="Disabled"
     Title="MarketMAUI">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate pages:ProductsPage}"
-         />
-    <ShellContent
-        Title="Camera"
-        ContentTemplate="{DataTemplate pages:ProductsPage}"
-         />
+    <FlyoutItem>
+        <ShellContent
+    Title="Home"
+    ContentTemplate="{DataTemplate pages:ProductsPage}"
+     />
+        <ShellContent
+    Title="Camera"
+    ContentTemplate="{DataTemplate pages:CameraPage}"
+     />
+    </FlyoutItem>
     
 
 </Shell>

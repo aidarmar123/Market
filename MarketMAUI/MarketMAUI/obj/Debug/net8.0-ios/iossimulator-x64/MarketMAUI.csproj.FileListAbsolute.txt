@@ -311,3 +311,4 @@ C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-i
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\MarketMAUI.pdb
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\MarketMAUI.genruntimeconfig.cache
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\ref\MarketMAUI.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.outputs

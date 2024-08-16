@@ -10,6 +10,7 @@
                           HorizontalOptions="Center"
                           SelectionMode="Single"
                           ItemSelected="LVProduct_ItemSelected">
+                
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
@@ -42,6 +43,7 @@ HeightRequest="150"/>
                             </ViewCell>
                         </DataTemplate>
                     </ListView.ItemTemplate>
+                    
                 </ListView>
             </VerticalStackLayout>
             

@@ -299,3 +299,4 @@ C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-m
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MarketMAUI.pdb
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\MarketMAUI.genruntimeconfig.cache
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\MarketMAUI.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
