@@ -178,3 +178,7 @@ C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-w
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Camera.MAUI.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Camera.MAUI.ZXing.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zxing.dll
