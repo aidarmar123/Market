@@ -16,7 +16,13 @@
     <MauiXaml Update="Pages\CurrentProductPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Pages\LoginPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Pages\ProductsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Pages\RegistrPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

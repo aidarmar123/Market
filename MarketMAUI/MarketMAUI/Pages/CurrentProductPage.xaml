@@ -13,6 +13,7 @@
                         <StackLayout>
                             <Image Source="{Binding image}"
                                    Aspect="Fill"
+                                   Margin="10"
    WidthRequest="300"
    HeightRequest="200"/>
                         </StackLayout>

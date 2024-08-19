@@ -312,3 +312,7 @@ C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-i
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\MarketMAUI.genruntimeconfig.cache
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\ref\MarketMAUI.dll
 C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.outputs
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-ios\iossimulator-x64\Camera.MAUI.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-ios\iossimulator-x64\Camera.MAUI.ZXing.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-ios\iossimulator-x64\zxing.dll

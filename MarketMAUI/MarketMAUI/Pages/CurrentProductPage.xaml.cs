@@ -16,7 +16,7 @@ public partial class CurrentProductPage : ContentPage
         if (CVImages.ItemsLayout is GridItemsLayout gridLayout)
         {
             double width = this.Width;
-            int columns = (int)(width / 300); 
+            int columns = (int)(width / 310); 
             if (columns < 1) columns = 1;
             gridLayout.Span = columns;
         }
