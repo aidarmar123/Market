@@ -23,7 +23,7 @@ public partial class LoginPage : ContentPage
         await DataManager.Init();
         if(Login != null && Password !=null)
         {
-            var user= DataManager.users.FirstOrDefault(x=>x.Login == Login && x.Password==GetMD5(Password));
+            var user= DataManager.users.FirstOrDefault(x=>x.Login == Login && x.Password==HashToMD5.GetMD5(Password));
             if(user != null)
             {
                 await Navigation.PushModalAsync(new AppShell());
@@ -36,23 +36,10 @@ public partial class LoginPage : ContentPage
         }
     }
 
-    private string GetMD5(string password)
-    {
-        using(MD5 md5 = MD5.Create())
-        {
-            byte[] inputBytes = Encoding.UTF8.GetBytes(password);
-            byte[] hashBytes = md5.ComputeHash(inputBytes);
-            var sb = new StringBuilder();
-            foreach(var hashByte in hashBytes)
-            {
-                sb.Append(hashByte.ToString("X2"));
-            }
-            return sb.ToString();
-        }
-    }
+    
 
     private async void BSignUp_Clicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new RegistrPage(new User()));
+        await Navigation.PushAsync(new RegistrPage(new User { RoleId=2})); // Role 2 - User
     }
 }

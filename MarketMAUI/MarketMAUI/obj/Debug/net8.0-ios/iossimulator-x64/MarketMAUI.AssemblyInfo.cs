@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6330f9cc52c325cb47ada8311a888e9ca77345df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9b512b4e0423fad4925bde2f96342ccd326ab7ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketMAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

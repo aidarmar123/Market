@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\markelapi\\markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\market\\markelapi\\markelapi\\models\\modelmarket.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\models\\modelmarket.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MarkelApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MarkelApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwEgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:49:41.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ModelMarket.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Models\\ModelMarket.edmx",
               "RelativeDocumentMoniker": "MarkelApi\\Models\\ModelMarket.edmx",
