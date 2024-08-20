@@ -26,14 +26,14 @@ public partial class LoginPage : ContentPage
             var user= DataManager.users.FirstOrDefault(x=>x.Login == Login && x.Password==HashToMD5.GetMD5(Password));
             if(user != null)
             {
-                await Navigation.PushModalAsync(new AppShell());
+                await Navigation.PushAsync(new AppShell());
             }
             else
             {
-                LError.IsVisible= true;
-                LError.Text = "Incorrect login or password.";
+                await DisplayAlert("Error", "Incorrect login or password.", "Input again");
             }
         }
+        
     }
 
     

@@ -9,14 +9,8 @@
                              VerticalOptions="Center">
             <Label HorizontalOptions="Center"
                    FontSize="Header"
-                   
                    Text="Sign in"/>
-            <Label BackgroundColor="Pink"
-                   HorizontalTextAlignment="Center"
-                   Padding="3"
-                   IsVisible="Collapse"
-                   TextColor="Red"
-                   x:Name="LError"/>
+            
             <Label Text="Login"/>
             <Entry Text="{Binding Login}"
                    MaxLength="50"/>
