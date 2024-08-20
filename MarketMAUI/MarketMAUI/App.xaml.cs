@@ -12,9 +12,18 @@ namespace MarketMAUI
         
         public App()
         {
+            if (Device.RuntimePlatform == Device.WinUI)
+            {
+                NetManager.URL = "http://localhost:55419/";
+            }
+            else if (Device.RuntimePlatform == Device.Android)
+            {
+                NetManager.URL = "http://127.0.0.1:55419/";
+            }
             RegistrationAllDescriptor();
             InitializeComponent();
             MainPage = new NavigationPage(new LoginPage());
+
             
         }
 

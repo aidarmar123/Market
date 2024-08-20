@@ -1,2 +1,2 @@
-AdbTarget=
+AdbTarget=-s RFCX216WR3N
 AdbOptions=

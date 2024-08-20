@@ -1,1 +1,1 @@
-C:\Users\Айдар\source\repos\Market\MarketMAUI\MarketMAUI\MarketMAUI.csproj;x64
+C:\Users\Aidar\source\repos\Market\MarketMAUI\MarketMAUI\MarketMAUI.csproj;x64
