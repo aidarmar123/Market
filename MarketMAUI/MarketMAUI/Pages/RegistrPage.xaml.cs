@@ -2,6 +2,7 @@ using MarketMAUI.Models;
 using MarketMAUI.Service;
 using System.Net.Mail;
 using System.Net;
+using Newtonsoft.Json;
 
 namespace MarketMAUI.Pages;
 
@@ -27,7 +28,12 @@ public partial class RegistrPage : ContentPage
                 {
                     contextUser.Password = HashToMD5.GetMD5(contextUser.Password);
                     var response = await NetManager.Post("api/Users", contextUser);
+
                     await SendMsg(contextUser);
+
+                    //Запоминание User в кэш
+                    var jsonData = JsonConvert.SerializeObject(contextUser);
+                    DataManager.InitDataFile(Path.Combine(FileSystem.Current.AppDataDirectory, "casheUser.json"), jsonData);
 
                     await Navigation.PushAsync(new AppShell());
                 }

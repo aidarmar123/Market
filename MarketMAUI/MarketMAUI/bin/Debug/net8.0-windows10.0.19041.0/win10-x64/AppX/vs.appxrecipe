@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Aidar\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-20T13:29:15.488</Modified>
+      <Modified>2024-08-21T12:52:48.845</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Aidar\source\repos\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.dll">
       <PackagePath>MarketMAUI.dll</PackagePath>
-      <Modified>2024-08-20T13:29:14.104</Modified>
+      <Modified>2024-08-21T12:52:48.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Aidar\source\repos\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MarketMAUI.exe</PackagePath>
-      <Modified>2024-08-20T13:29:14.120</Modified>
+      <Modified>2024-08-21T12:52:48.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Aidar\source\repos\Market\MarketMAUI\MarketMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

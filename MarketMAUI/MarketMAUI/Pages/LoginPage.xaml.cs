@@ -1,5 +1,6 @@
 using MarketMAUI.Models;
 using MarketMAUI.Service;
+using Newtonsoft.Json;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -26,6 +27,8 @@ public partial class LoginPage : ContentPage
             var user= DataManager.users.FirstOrDefault(x=>x.Login == Login && x.Password==HashToMD5.GetMD5(Password));
             if(user != null)
             {
+                var jsonData = JsonConvert.SerializeObject(user);
+                DataManager.InitDataFile(Path.Combine(FileSystem.Current.AppDataDirectory, "casheUser.json"),jsonData);
                 await Navigation.PushAsync(new AppShell());
             }
             else

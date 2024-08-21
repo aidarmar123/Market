@@ -12,7 +12,7 @@
         Spacing="25">
 
             <cm:CameraView x:Name="cameraView" WidthRequest="300" HeightRequest="200"
-                       CamerasLoaded="cameraView_CamerasLoaded"
+                       
                        />
 
             <StackLayout x:Name="SLProduct">

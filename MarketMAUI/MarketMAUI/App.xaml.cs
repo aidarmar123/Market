@@ -22,7 +22,16 @@ namespace MarketMAUI
             }
             RegistrationAllDescriptor();
             InitializeComponent();
-            MainPage = new NavigationPage(new LoginPage());
+
+            if(DataManager.ContextUser == null)
+            {
+                MainPage = new NavigationPage(new LoginPage());
+            }
+            else
+            {
+                MainPage = new AppShell();
+            }
+            
 
             
         }

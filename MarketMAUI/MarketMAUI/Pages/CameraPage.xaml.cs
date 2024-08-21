@@ -9,14 +9,15 @@ namespace MarketMAUI.Pages;
 public partial class CameraPage : ContentPage
 {
     Product contextProduct;
-	public CameraPage()
-	{
-		InitializeComponent();
+    public CameraPage()
+    {
+        InitializeComponent();
+        cameraView.CamerasLoaded += CameraView_CamerasLoaded; ;
         cameraView.BarcodeDetected += Camera_BarcodeDetected;
         cameraView.BarCodeDecoder = new ZXingBarcodeDecoder();
-	}
+    }
 
-    private void Camera_CamerasLoaded(object sender, EventArgs e)
+    private void CameraView_CamerasLoaded(object? sender, EventArgs e)
     {
         cameraView.Camera = cameraView.Cameras.First();
 
@@ -26,10 +27,24 @@ public partial class CameraPage : ContentPage
         });
     }
 
+    
+
     private void Camera_BarcodeDetected(object sender, Camera.MAUI.ZXingHelper.BarcodeEventArgs args)
     {
-        contextProduct = DataManager.products.FirstOrDefault(x => x.Id == Convert.ToInt32(args.Result[0].Text));
-        SLProduct.BindingContext = contextProduct;
+        var findProduct = DataManager.products.FirstOrDefault(x => x.Id == Convert.ToInt32(args.Result[0].Text));
+        if (findProduct != null)
+        {
+            contextProduct = findProduct;
+            SLProduct.BindingContext = contextProduct;
+
+            var histrorySkan = new HistorySkan
+            {
+                DateTime = DateTime.Now,
+                ProductId = contextProduct.Id,
+                UserId = DataManager.ContextUser.Id
+            };
+        }
+
 
     }
 }
