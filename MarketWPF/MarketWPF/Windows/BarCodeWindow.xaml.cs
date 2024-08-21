@@ -29,7 +29,7 @@ namespace MarketWPF.Windows
         {
             InitializeComponent();
             CreateBarCode(product);
-           // DataContext = product;
+           
         }
 
         private void CreateBarCode(Product product)
@@ -37,16 +37,9 @@ namespace MarketWPF.Windows
             var barCode = BarcodeWriter.CreateBarcode(product.BarCodeText, BarcodeWriterEncoding.Code128);
             barCode.ResizeTo(400, 100);
 
-            
-            
             Image = barCode.ToBitmap().GetBytes();
             DataContext = null;
             DataContext = this;
-
-
-
-            
-           
 
         }
     }

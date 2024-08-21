@@ -13,19 +13,26 @@
         <DataGrid x:Name="DGHistory"
                   AutoGenerateColumns="False"
                   ColumnWidth="auto"
-                  IsReadOnly="True">
+                  IsReadOnly="True"
+                  RowHeight="100">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Product"
                                     Binding="{Binding Product.Name}"/>
                 <DataGridTextColumn Header="Date"
-                                    Binding="{Binding DateTime}"/>
+                                    Binding="{Binding DateTime, StringFormat='HH:mm dd.MM.yyyy'}"/>
                 <DataGridTextColumn Header="User"
                                     Binding="{Binding User.Name}"/>
-                <DataGridTemplateColumn Header="Statistic">
+                <DataGridTemplateColumn Header="Statistic" Width="*">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
                             <StackPanel>
-                                <lvc:CartesianChart Series="{Binding SeriesCollection}"/>
+                                <lvc:CartesianChart Series="{Binding SeriesCollection}"
+                                                    Height="100">
+                                    <lvc:CartesianChart.AxisY>
+                                        <lvc:Axis Title="Count"
+                                                  MinValue="0"></lvc:Axis>
+                                    </lvc:CartesianChart.AxisY>
+                                </lvc:CartesianChart>
                             </StackPanel>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>

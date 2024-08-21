@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Айдар\source\repos\Market\MarketWPF\MarketWPF\obj\Debug\
+C:\Users\Aidar\source\repos\Market\MarketWPF\MarketWPF\obj\Debug\
 MarketWPF
 none
 false
 DEBUG;TRACE
-C:\Users\Айдар\source\repos\Market\MarketWPF\MarketWPF\App.xaml
+C:\Users\Aidar\source\repos\Market\MarketWPF\MarketWPF\App.xaml
 51144667198
-201527344705
-22624368255
-168-273707785
+20-619587211
+23-26280302
+1681417956507
 MainWindow.xaml;Pages\HistroySkanPage.xaml;Pages\ListProductsPage.xaml;Windows\AddProductWindow.xaml;Windows\BarCodeWindow.xaml;
 
 True

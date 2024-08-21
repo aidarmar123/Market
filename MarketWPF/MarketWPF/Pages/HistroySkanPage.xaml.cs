@@ -23,6 +23,14 @@ namespace MarketWPF.Pages
         public HistroySkanPage()
         {
             InitializeComponent();
+            Refresh();
+        }
+
+        private void Refresh()
+        {
+            DGHistory.ItemsSource = App.DB.HistorySkan
+                .OrderBy(x=>x.DateTime)
+                .ToList();
         }
     }
 }

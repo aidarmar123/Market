@@ -217,6 +217,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\Partials\HistorySkan.cs" />
     <Compile Include="Models\Partials\Product.cs" />
     <Compile Include="Service\ValidationLine.cs" />
     <Compile Include="Windows\AddProductWindow.xaml.cs">
