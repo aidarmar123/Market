@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\models\\histroyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\histroyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\models\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\camerapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\camerapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\camerapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\camerapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\registrpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\registrpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,18 +90,6 @@
       "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\camerapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\camerapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\pages\\camerapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\pages\\camerapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -96,10 +104,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\models\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\imageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,10 +127,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|c:\\users\\aidar\\source\\repos\\market\\marketmaui\\marketmaui\\models\\histroyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A18607E-B886-40C6-B4F8-FC054A5A015B}|MarketMAUI\\MarketMAUI.csproj|solutionrelative:marketmaui\\models\\histroyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -136,89 +136,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\Pages\\LoginPage.xaml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:54:13.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml",
-              "RelativeToolTip": "MarketMAUI\\Pages\\LoginPage.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-19T10:45:51.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\App.xaml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:22:41.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NetManager.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\NetManager.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Service\\NetManager.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\NetManager.cs",
-              "RelativeToolTip": "MarketMAUI\\Service\\NetManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:56:56.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:25:10.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-08-20T10:31:41.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\User.cs",
               "RelativeDocumentMoniker": "MarketMAUI\\Models\\User.cs",
@@ -226,12 +148,11 @@
               "RelativeToolTip": "MarketMAUI\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T16:00:14.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T16:00:14.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "HashToMD5.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\HashToMD5.cs",
               "RelativeDocumentMoniker": "MarketMAUI\\Service\\HashToMD5.cs",
@@ -239,25 +160,24 @@
               "RelativeToolTip": "MarketMAUI\\Service\\HashToMD5.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:55:44.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T11:55:44.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RegistrPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\RegistrPage.xaml.cs",
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\RegistrPage.xaml.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\RegistrPage.xaml.cs",
               "RelativeToolTip": "MarketMAUI\\Pages\\RegistrPage.xaml.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowD4AAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T11:10:00.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "RegistrPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\RegistrPage.xaml",
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\RegistrPage.xaml",
@@ -265,12 +185,11 @@
               "RelativeToolTip": "MarketMAUI\\Pages\\RegistrPage.xaml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-19T10:46:37.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:46:37.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MetaUser.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\MetaUser\\MetaUser.cs",
               "RelativeDocumentMoniker": "MarketMAUI\\Models\\MetaUser\\MetaUser.cs",
@@ -278,258 +197,62 @@
               "RelativeToolTip": "MarketMAUI\\Models\\MetaUser\\MetaUser.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:08:14.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T11:08:14.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModalNavigationManager.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs",
-              "ToolTip": "C:\\Users\\Aidar\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AQIAAAgAAAAAAAAAAAD4vxoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:25:30.009Z",
-              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CurrentProductPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:34:59.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ValidationLine.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\ValidationLine.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Service\\ValidationLine.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\ValidationLine.cs",
-              "RelativeToolTip": "MarketMAUI\\Service\\ValidationLine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:45:54.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CurrentProductPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml",
-              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CurrentProductPage.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml",
-              "RelativeToolTip": "MarketMAUI\\Pages\\CurrentProductPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T14:34:51.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "CameraPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml",
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CameraPage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml",
               "RelativeToolTip": "MarketMAUI\\Pages\\CameraPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-16T14:30:39.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Info.plist",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
-              "RelativeDocumentMoniker": "MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
-              "RelativeToolTip": "MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
-              "ViewState": "AQIAAAEAAAAAAAAAAMBtwCcAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-16T14:30:19.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Info.plist",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\iOS\\Info.plist",
-              "RelativeDocumentMoniker": "MarketMAUI\\Platforms\\iOS\\Info.plist",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\iOS\\Info.plist",
-              "RelativeToolTip": "MarketMAUI\\Platforms\\iOS\\Info.plist",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCEAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-16T14:29:51.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MauiProgram.cs",
-              "RelativeToolTip": "MarketMAUI\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:27:29.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:11:44.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CameraPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CameraPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\Pages\\CameraPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T13:51:54.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAlwEMAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:53:06.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\ProductsPage.xaml.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\ProductsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\ProductsPage.xaml.cs",
-              "RelativeToolTip": "MarketMAUI\\Pages\\ProductsPage.xaml.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:33:09.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "ProductsPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\ProductsPage.xaml",
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\ProductsPage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\ProductsPage.xaml",
               "RelativeToolTip": "MarketMAUI\\Pages\\ProductsPage.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwC0AAAAUAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwCMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-16T12:30:53.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml",
-              "RelativeDocumentMoniker": "MarketMAUI\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml",
-              "RelativeToolTip": "MarketMAUI\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T12:25:59.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DataManager.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\DataManager.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Service\\DataManager.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\DataManager.cs",
-              "RelativeToolTip": "MarketMAUI\\Service\\DataManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "DocumentIndex": 2,
+              "Title": "CameraPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CameraPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\Pages\\CameraPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:15:22.793Z",
+              "WhenOpened": "2024-08-16T13:51:54.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml",
-              "RelativeDocumentMoniker": "MarketMAUI\\App.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml",
-              "RelativeToolTip": "MarketMAUI\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T11:55:34.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Xamarin.Android.Aapt2.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "ViewState": "AQIAANoAAAAAAAAAAAAkwO8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-08-15T13:31:52.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MarketMAUI\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml",
-              "RelativeToolTip": "MarketMAUI\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-15T13:14:38.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ImageProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\ImageProduct.cs",
-              "RelativeDocumentMoniker": "MarketMAUI\\Models\\ImageProduct.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\ImageProduct.cs",
-              "RelativeToolTip": "MarketMAUI\\Models\\ImageProduct.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAUAAAA",
+              "DocumentIndex": 13,
+              "Title": "NetManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\NetManager.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Service\\NetManager.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\NetManager.cs",
+              "RelativeToolTip": "MarketMAUI\\Service\\NetManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T13:12:38.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:56:56.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 0,
               "Title": "HistroySkan.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\HistroySkan.cs",
               "RelativeDocumentMoniker": "MarketMAUI\\Models\\HistroySkan.cs",
@@ -542,7 +265,261 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\ImageProduct.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Models\\ImageProduct.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\ImageProduct.cs",
+              "RelativeToolTip": "MarketMAUI\\Models\\ImageProduct.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:12:38.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "MarketMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-20T10:31:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:25:10.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\App.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:22:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "MarketMAUI\\Pages\\LoginPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-19T10:45:51.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:54:13.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModalNavigationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs",
+              "ToolTip": "C:\\Users\\Aidar\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f503bb2cf9547d83d131cb6a49f4766b3c70882904453953ad02ec8bf51110f0\\ModalNavigationManager.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAAgAAAAAAAAAAAD4vxoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:25:30.009Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CurrentProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\Pages\\CurrentProductPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:34:59.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationLine.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\ValidationLine.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Service\\ValidationLine.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\ValidationLine.cs",
+              "RelativeToolTip": "MarketMAUI\\Service\\ValidationLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:45:54.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CurrentProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml",
+              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CurrentProductPage.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml",
+              "RelativeToolTip": "MarketMAUI\\Pages\\CurrentProductPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T14:34:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
+              "RelativeDocumentMoniker": "MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
+              "RelativeToolTip": "MarketMAUI\\Platforms\\MacCatalyst\\Info.plist",
+              "ViewState": "AQIAAAEAAAAAAAAAAMBtwCcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-16T14:30:19.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "MarketMAUI\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "MarketMAUI\\Platforms\\iOS\\Info.plist",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-16T14:29:51.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "MarketMAUI\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:27:29.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:11:44.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MarketMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAlwEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:53:06.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Pages\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "MarketMAUI\\Pages\\ProductsPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:33:09.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MarketMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\AppShell.xaml",
+              "RelativeToolTip": "MarketMAUI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T12:25:59.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\DataManager.cs",
+              "RelativeDocumentMoniker": "MarketMAUI\\Service\\DataManager.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Service\\DataManager.cs",
+              "RelativeToolTip": "MarketMAUI\\Service\\DataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:15:22.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "MarketMAUI\\App.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\App.xaml",
+              "RelativeToolTip": "MarketMAUI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T11:55:34.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAANoAAAAAAAAAAAAkwO8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-15T13:31:52.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MarketMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\MainPage.xaml",
+              "RelativeToolTip": "MarketMAUI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-15T13:14:38.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Models\\Role.cs",
               "RelativeDocumentMoniker": "MarketMAUI\\Models\\Role.cs",

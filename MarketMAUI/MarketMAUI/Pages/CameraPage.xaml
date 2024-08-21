@@ -4,11 +4,39 @@
              x:Class="MarketMAUI.Pages.CameraPage"
              xmlns:cm ="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
              Title="CameraPage">
-    <VerticalStackLayout>
-        <cm:CameraView x:Name="cameraView"
-                       CamerasLoaded="Camera_CamerasLoaded"
-                       BarcodeDetected="Camera_BarcodeDetected"
-                     WidthRequest="300"
-                     HeightRequest="200"/>
-    </VerticalStackLayout>
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30,0"
+        VerticalOptions="Fill"
+        HorizontalOptions="Fill"
+        Spacing="25">
+
+            <cm:CameraView x:Name="cameraView" WidthRequest="300" HeightRequest="200"
+                       CamerasLoaded="cameraView_CamerasLoaded"
+                       />
+
+            <StackLayout x:Name="SLProduct">
+                <CarouselView ItemsSource="{Binding ImageProduct}"
+                              HorizontalOptions="Center">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Margin="5">
+                                <VerticalStackLayout>
+                                    <Image Source="{Binding image}"
+                                           WidthRequest="200"
+                                           HeightRequest="150"/>
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+                <Label Text="{Binding Name}"
+                       FontSize="Header"/>
+                <Label Text="{Binding Price, StringFormat=' {0} RUB'}"/>
+            </StackLayout>
+
+           
+
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>
