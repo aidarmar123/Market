@@ -17,6 +17,10 @@
     Title="Camera"
     ContentTemplate="{DataTemplate pages:CameraPage}"
      />
+        <ShellContent
+Title="Camera"
+ContentTemplate="{DataTemplate local:MainPage}"
+ />
     </FlyoutItem>
     
 

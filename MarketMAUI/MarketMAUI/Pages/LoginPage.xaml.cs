@@ -28,7 +28,7 @@ public partial class LoginPage : ContentPage
             if(user != null)
             {
                 var jsonData = JsonConvert.SerializeObject(user);
-                DataManager.InitDataFile(Path.Combine(FileSystem.Current.AppDataDirectory, "casheUser.json"),jsonData);
+                //DataManager.InitDataFile(Path.Combine(FileSystem.Current.AppDataDirectory, "casheUser.json"),jsonData);
                 await Navigation.PushAsync(new AppShell());
             }
             else

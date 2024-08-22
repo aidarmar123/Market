@@ -18,7 +18,7 @@ namespace MarketMAUI.Service
                 return Path.Combine(FileSystem.Current.AppDataDirectory, "casheUser.json");
             }
         }
-        private static User contextUser;
+        public static User contextUser;
 
         public static User ContextUser
         {

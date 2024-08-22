@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\Market\\MarkelApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|c:\\users\\aidar\\source\\repos\\market\\markelapi\\markelapi\\controllers\\historyskanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\controllers\\historyskanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|c:\\users\\aidar\\source\\repos\\market\\markelapi\\markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HistorySkansController.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Controllers\\HistorySkansController.cs",
+              "RelativeDocumentMoniker": "MarkelApi\\Controllers\\HistorySkansController.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Controllers\\HistorySkansController.cs",
+              "RelativeToolTip": "MarkelApi\\Controllers\\HistorySkansController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:03:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MarkelApi\\Controllers\\UsersController.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ModelMarket.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarkelApi\\MarkelApi\\Models\\ModelMarket.edmx",
               "RelativeDocumentMoniker": "MarkelApi\\Models\\ModelMarket.edmx",

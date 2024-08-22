@@ -3,50 +3,45 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MarketMAUI.Pages.ProductsPage"
              Title="ProductsPage">
-    
-        <ScrollView>
-            <VerticalStackLayout Margin="20">
-                <ListView x:Name="LVProduct"
+
+    <ScrollView>
+        <VerticalStackLayout Margin="20">
+            <ListView x:Name="LVProduct"
                           HorizontalOptions="Center"
+                          RowHeight="300"
+                     
                           SelectionMode="Single"
                           ItemSelected="LVProduct_ItemSelected">
-                
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
                             <StackLayout Margin="10">
                                 <Label Text="{Binding Name}"
-       FontSize="32"
-       HorizontalOptions="Center"/>
+                                       FontSize="32"
+                                       HorizontalOptions="Center"/>
                                 <CarouselView ItemsSource="{Binding ImageProduct}"
                                               HorizontalOptions="Center">
                                     <CarouselView.ItemTemplate>
                                         <DataTemplate>
-                                            <Frame Margin="5"
-                                                   >
+                                            <Frame Margin="5">
                                                 <VerticalStackLayout>
                                                     <Image Source="{Binding image}"
                                                            WidthRequest="200"
-HeightRequest="150"/>
+                                                           HeightRequest="150"/>
                                                 </VerticalStackLayout>
                                             </Frame>
                                         </DataTemplate>
                                     </CarouselView.ItemTemplate>
-                                    
                                 </CarouselView>
-
                                 <Label Text="{Binding Price, StringFormat='Price: {0} RUB'}"
                                        HorizontalOptions="Center"
                                        FontSize="24"/>
                             </StackLayout>
-                           
-                            </ViewCell>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                    
-                </ListView>
-            </VerticalStackLayout>
-            
-        </ScrollView>
-   
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+    </ScrollView>
+
 </ContentPage>

@@ -27,4 +27,9 @@ public partial class ProductsPage : ContentPage
 			await Navigation.PushAsync(new CurrentProductPage(product));
 		}
     }
+
+    private void LVProduct_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+
+    }
 }

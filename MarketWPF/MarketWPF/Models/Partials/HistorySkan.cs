@@ -28,7 +28,6 @@ namespace MarketWPF.Models
                     if (listDate.FirstOrDefault(x => x.DateTime.Date == minValue.AddDays(i)) != null)
                     {
                         var thisDateList = listDate.Where(x => x.DateTime.Date == minValue.AddDays(i)).ToList();
-                        var countInOneDay = thisDateList.GroupBy(x => x.DateTime.Date).Count();
                         values.Add(thisDateList.Count);
                     }
                     else

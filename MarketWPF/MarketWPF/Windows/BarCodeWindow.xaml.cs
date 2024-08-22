@@ -34,7 +34,7 @@ namespace MarketWPF.Windows
 
         private void CreateBarCode(Product product)
         {
-            var barCode = BarcodeWriter.CreateBarcode(product.BarCodeText, BarcodeWriterEncoding.Code128);
+            var barCode = BarcodeWriter.CreateBarcode(product.Id.ToString(), BarcodeWriterEncoding.Code128);
             barCode.ResizeTo(400, 100);
 
             Image = barCode.ToBitmap().GetBytes();

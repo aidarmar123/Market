@@ -15,6 +15,8 @@ public partial class CameraPage : ContentPage
         cameraView.CamerasLoaded += CameraView_CamerasLoaded; ;
         cameraView.BarcodeDetected += Camera_BarcodeDetected;
         cameraView.BarCodeDecoder = new ZXingBarcodeDecoder();
+        cameraView.BarCodeDetectionEnabled = true;
+        
     }
 
     private void CameraView_CamerasLoaded(object? sender, EventArgs e)
@@ -29,20 +31,23 @@ public partial class CameraPage : ContentPage
 
     
 
-    private void Camera_BarcodeDetected(object sender, Camera.MAUI.ZXingHelper.BarcodeEventArgs args)
+    private async void Camera_BarcodeDetected(object sender, Camera.MAUI.ZXingHelper.BarcodeEventArgs args)
     {
         var findProduct = DataManager.products.FirstOrDefault(x => x.Id == Convert.ToInt32(args.Result[0].Text));
         if (findProduct != null)
         {
             contextProduct = findProduct;
+          
+            SLProduct.BindingContext = null;
             SLProduct.BindingContext = contextProduct;
 
-            var histrorySkan = new HistorySkan
-            {
-                DateTime = DateTime.Now,
-                ProductId = contextProduct.Id,
-                UserId = DataManager.ContextUser.Id
-            };
+            //var histrorySkan = new HistorySkan
+            //{
+            //    DateTime = DateTime.Now,
+            //    ProductId = contextProduct.Id,
+            //    UserId = DataManager.ContextUser.Id
+            //};
+            //await NetManager.Post("api/HistorySkans", histrorySkan);
         }
 
 
