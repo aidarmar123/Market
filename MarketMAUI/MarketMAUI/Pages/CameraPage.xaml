@@ -21,6 +21,25 @@
                     
         Clicked="BFindProduct_Clicked"
         Text="Find Product"/>
+            <StackLayout x:Name="SLProduct">
+                <CarouselView ItemsSource="{Binding ImageProduct}"
+                              HorizontalOptions="Center">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Margin="5">
+                                <VerticalStackLayout>
+                                    <Image Source="{Binding image}"
+                                           WidthRequest="200"
+                                           HeightRequest="150"/>
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+                <Label Text="{Binding Name}"
+                       FontSize="Header"/>
+                <Label Text="{Binding Price, StringFormat=' {0} RUB'}"/>
+            </StackLayout>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

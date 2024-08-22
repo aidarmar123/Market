@@ -169,8 +169,7 @@
               "RelativeToolTip": "MarketMAUI\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:48:31.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T10:48:31.116Z"
             },
             {
               "$type": "Document",
@@ -194,8 +193,7 @@
               "RelativeToolTip": "MarketMAUI\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:26:12.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T15:26:12.254Z"
             },
             {
               "$type": "Document",
@@ -231,8 +229,7 @@
               "RelativeToolTip": "MarketMAUI\\Pages\\ProductsPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T12:30:53.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:30:53.091Z"
             },
             {
               "$type": "Document",
@@ -242,7 +239,7 @@
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CameraPage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml",
               "RelativeToolTip": "MarketMAUI\\Pages\\CameraPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwB0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-16T14:30:39.843Z",
               "EditorCaption": ""
@@ -255,7 +252,7 @@
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CameraPage.xaml.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CameraPage.xaml.cs",
               "RelativeToolTip": "MarketMAUI\\Pages\\CameraPage.xaml.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAtwEMAAAAMAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAIA7wEAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T13:51:54.75Z",
               "EditorCaption": ""
@@ -372,7 +369,7 @@
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\LoginPage.xaml",
               "RelativeToolTip": "MarketMAUI\\Pages\\LoginPage.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-19T10:45:51.668Z",
               "EditorCaption": ""
@@ -437,7 +434,7 @@
               "RelativeDocumentMoniker": "MarketMAUI\\Pages\\CurrentProductPage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketMAUI\\MarketMAUI\\Pages\\CurrentProductPage.xaml",
               "RelativeToolTip": "MarketMAUI\\Pages\\CurrentProductPage.xaml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-08-16T14:34:51.043Z",
               "EditorCaption": ""
@@ -581,8 +578,7 @@
               "RelativeToolTip": "MarketMAUI\\Models\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T13:11:15.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T13:11:15.034Z"
             }
           ]
         }

@@ -62,7 +62,7 @@ public partial class CameraPage : ContentPage
     {
         if (contextProduct != null)
         {
-            CreateCart();
+            SLProduct.BindingContext=contextProduct;
             AddHistory();
             contextProduct = null;
             
