@@ -55,11 +55,17 @@ namespace MarketWPF.Windows
             var error = ValidationLine.ValidationProduct(contextProduct);
             if (error.Length == 0)
             {
-                App.DB.Product.Add(contextProduct);
-                foreach(var image in imageProducts)
+                if (contextProduct.Id == 0)
                 {
-                    image.ProductId = contextProduct.Id;
-                    App.DB.ImageProduct.Add(image);
+                    App.DB.Product.Add(contextProduct);
+                }
+                foreach (var image in imageProducts)
+                {
+                    if(image.Id== 0)
+                    {
+                        image.ProductId = contextProduct.Id;
+                        App.DB.ImageProduct.Add(image);
+                    }  
                 }
                 App.DB.SaveChanges();
                 this.DialogResult = false;

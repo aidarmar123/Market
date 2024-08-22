@@ -25,9 +25,9 @@ namespace MarketWPF.Models
 
                 for (int i = 0; i <= difference; i++)
                 {
-                    if (listDate.FirstOrDefault(x => x.DateTime.Date == minValue.AddDays(i)) != null)
+                    if (listDate.FirstOrDefault(x => x.DateTime.Date == minValue.AddDays(i) && x.ProductId ==ProductId) != null)
                     {
-                        var thisDateList = listDate.Where(x => x.DateTime.Date == minValue.AddDays(i)).ToList();
+                        var thisDateList = listDate.Where(x => x.DateTime.Date == minValue.AddDays(i) && x.ProductId == ProductId).ToList();
                         values.Add(thisDateList.Count);
                     }
                     else

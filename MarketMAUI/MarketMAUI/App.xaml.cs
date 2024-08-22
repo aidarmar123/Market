@@ -19,6 +19,7 @@ namespace MarketMAUI
             else if (Device.RuntimePlatform == Device.Android)
             {
                 NetManager.URL = "http://127.0.0.1:55419/";
+                
             }
             RegistrationAllDescriptor();
             InitializeComponent();

@@ -15,8 +15,6 @@ public partial class ProductsPage : ContentPage
     private async void Refresh()
     {
 		await DataManager.Init();
-		
-		
 		LVProduct.ItemsSource = DataManager.products;
     }
 
@@ -28,8 +26,5 @@ public partial class ProductsPage : ContentPage
 		}
     }
 
-    private void LVProduct_SelectionChanged(object sender, SelectionChangedEventArgs e)
-    {
-
-    }
+    
 }

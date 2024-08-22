@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\controllers\\historyskanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|c:\\users\\aidar\\source\\repos\\market\\markelapi\\markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarkelApi\\markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B82DB914-17FC-44DF-B53C-5F5BF525E44E}|MarkelApi\\MarkelApi.csproj|solutionrelative:markelapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,8 +47,7 @@
               "RelativeToolTip": "MarkelApi\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:49:41.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T11:49:41.611Z"
             },
             {
               "$type": "Document",

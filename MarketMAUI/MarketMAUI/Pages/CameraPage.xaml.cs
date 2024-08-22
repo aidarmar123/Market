@@ -12,14 +12,42 @@ public partial class CameraPage : ContentPage
     public CameraPage()
     {
         InitializeComponent();
-        cameraView.CamerasLoaded += CameraView_CamerasLoaded; ;
+        
         cameraView.BarcodeDetected += Camera_BarcodeDetected;
         cameraView.BarCodeDecoder = new ZXingBarcodeDecoder();
+        cameraView.BarCodeOptions = new BarcodeDecodeOptions
+        {
+            AutoRotate = true,
+            PossibleFormats = { BarcodeFormat.CODE_128 },
+            ReadMultipleCodes = false,
+            TryHarder = true,
+            TryInverted = true
+        };
         cameraView.BarCodeDetectionEnabled = true;
+    }
+    private void Camera_BarcodeDetected(object sender, Camera.MAUI.ZXingHelper.BarcodeEventArgs args)
+    {
+        contextProduct = DataManager.products.FirstOrDefault(x => x.Id == Convert.ToInt32(args.Result[0].Text));
         
     }
 
-    private void CameraView_CamerasLoaded(object? sender, EventArgs e)
+    private async void CreateCart()
+    {
+        await Navigation.PushAsync(new CurrentProductPage(contextProduct));
+    }
+
+    private async void AddHistory()
+    {
+        var histrorySkan = new HistorySkan
+        {
+            DateTime = DateTime.Now,
+            ProductId = contextProduct.Id,
+            UserId = DataManager.ContextUser.Id
+        };
+        await NetManager.Post("api/HistorySkans", histrorySkan);
+    }
+
+    private void BStartCamera_Clicked(object sender, EventArgs e)
     {
         cameraView.Camera = cameraView.Cameras.First();
 
@@ -27,29 +55,17 @@ public partial class CameraPage : ContentPage
         {
             await cameraView.StartCameraAsync();
         });
+        
     }
 
-    
-
-    private async void Camera_BarcodeDetected(object sender, Camera.MAUI.ZXingHelper.BarcodeEventArgs args)
+    private void BFindProduct_Clicked(object sender, EventArgs e)
     {
-        var findProduct = DataManager.products.FirstOrDefault(x => x.Id == Convert.ToInt32(args.Result[0].Text));
-        if (findProduct != null)
+        if (contextProduct != null)
         {
-            contextProduct = findProduct;
-          
-            SLProduct.BindingContext = null;
-            SLProduct.BindingContext = contextProduct;
-
-            //var histrorySkan = new HistorySkan
-            //{
-            //    DateTime = DateTime.Now,
-            //    ProductId = contextProduct.Id,
-            //    UserId = DataManager.ContextUser.Id
-            //};
-            //await NetManager.Post("api/HistorySkans", histrorySkan);
+            CreateCart();
+            AddHistory();
+            contextProduct = null;
+            
         }
-
-
     }
 }

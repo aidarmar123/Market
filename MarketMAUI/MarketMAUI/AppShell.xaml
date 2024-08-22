@@ -10,17 +10,16 @@
 
     <FlyoutItem>
         <ShellContent
+            Icon="home_icon.png"
     Title="Home"
     ContentTemplate="{DataTemplate pages:ProductsPage}"
      />
         <ShellContent
+            Icon="camera_icon.png"
     Title="Camera"
     ContentTemplate="{DataTemplate pages:CameraPage}"
      />
-        <ShellContent
-Title="Camera"
-ContentTemplate="{DataTemplate local:MainPage}"
- />
+        
     </FlyoutItem>
     
 

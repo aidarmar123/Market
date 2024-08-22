@@ -10,33 +10,17 @@
         VerticalOptions="Fill"
         HorizontalOptions="Fill"
         Spacing="25">
-
-            <cm:CameraView x:Name="cameraView" WidthRequest="300" HeightRequest="200"
-                       
-                       />
-
-            <StackLayout x:Name="SLProduct">
-                <CarouselView ItemsSource="{Binding ImageProduct}"
-                              HorizontalOptions="Center">
-                    <CarouselView.ItemTemplate>
-                        <DataTemplate>
-                            <Frame Margin="5">
-                                <VerticalStackLayout>
-                                    <Image Source="{Binding image}"
-                                           WidthRequest="200"
-                                           HeightRequest="150"/>
-                                </VerticalStackLayout>
-                            </Frame>
-                        </DataTemplate>
-                    </CarouselView.ItemTemplate>
-                </CarouselView>
-                <Label Text="{Binding Name}"
-                       FontSize="Header"/>
-                <Label Text="{Binding Price, StringFormat=' {0} RUB'}"/>
-            </StackLayout>
-
-           
-
+            
+            <cm:CameraView x:Name="cameraView" 
+                           WidthRequest="350" 
+                           HeightRequest="250"/>
+            <Button x:Name="BStartCamera"
+        Clicked="BStartCamera_Clicked"
+        Text="Skan BarCode"/>
+            <Button x:Name="BFindProduct"
+                    
+        Clicked="BFindProduct_Clicked"
+        Text="Find Product"/>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

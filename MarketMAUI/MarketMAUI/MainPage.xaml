@@ -7,23 +7,27 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <CarouselView x:Name="CV"
-                HeightRequest="500"
-                HorizontalOptions="Center">
-                <CarouselView.ItemTemplate>
-                    <DataTemplate>
-                        <Frame Margin="5"
-                     >
-                            <VerticalStackLayout>
-                                <Image Source="{Binding image}"
-                             WidthRequest="200"
-                             HeightRequest="150"/>
-                            </VerticalStackLayout>
-                        </Frame>
-                    </DataTemplate>
-                </CarouselView.ItemTemplate>
-
-            </CarouselView>
+            <Button Text="Click"
+                    Clicked="Button_Clicked"/>
+            <StackLayout x:Name="SLProduct">
+                <CarouselView ItemsSource="{Binding ImageProduct}"
+                  HorizontalOptions="Center">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Margin="5">
+                                <VerticalStackLayout>
+                                    <Image Source="{Binding image}"
+                               WidthRequest="200"
+                               HeightRequest="150"/>
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+                <Label Text="{Binding Name}"
+           FontSize="Header"/>
+                <Label Text="{Binding Price, StringFormat=' {0} RUB'}"/>
+            </StackLayout>
         </VerticalStackLayout>
     </ScrollView>
 

@@ -50,11 +50,15 @@
             </ListView.ItemTemplate>
         </ListView>
         <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
                     Grid.Row="1">
             <Button 
+                
         x:Name="BAddProduct"
         Click="BAddProduct_Click"
-        Content="Add Product"/>
+        Content="Add Product"
+                />
+           
              <Button 
         x:Name="BEdit"
         Click="BEdit_Click"

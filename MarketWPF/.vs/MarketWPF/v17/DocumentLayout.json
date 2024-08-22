@@ -3,19 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\barcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\barcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\barcodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\barcodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\pages\\listproductspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\pages\\listproductspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\models\\partials\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\models\\partials\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|c:\\users\\aidar\\source\\repos\\market\\marketwpf\\marketwpf\\pages\\histroyskanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\pages\\histroyskanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\pages\\histroyskanpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -23,12 +19,40 @@
       "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\pages\\histroyskanpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\models\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\models\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|c:\\users\\aidar\\source\\repos\\market\\marketwpf\\marketwpf\\windows\\barcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\barcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\pages\\listproductspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\pages\\listproductspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\barcodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\barcodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|c:\\users\\aidar\\source\\repos\\market\\marketwpf\\marketwpf\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|c:\\users\\aidar\\source\\repos\\market\\marketwpf\\marketwpf\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\models\\partials\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\models\\partials\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\models\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\models\\historyskan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\pages\\listproductspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\packages\\BarCode.2024.7.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\BarCode.2024.7.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\resourses\\another barcode font.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\windows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\windows\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -83,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\service\\validationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\models\\modelmarket.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\models\\modelmarket.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\marketwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FA684266-71DF-4D38-B9EE-76CB83C195D4}|MarketWPF\\MarketWPF.csproj|solutionrelative:marketwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,11 +106,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MarketWPF\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "MarketWPF\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:59:19.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\packages.config",
+              "RelativeDocumentMoniker": "MarketWPF\\packages.config",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\packages.config",
+              "RelativeToolTip": "MarketWPF\\packages.config",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-22T12:58:29.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HistorySkan.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\HistorySkan.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\HistorySkan.cs",
@@ -118,20 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "HistorySkan.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\Partials\\HistorySkan.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\Partials\\HistorySkan.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\Partials\\HistorySkan.cs",
               "RelativeToolTip": "MarketWPF\\Models\\Partials\\HistorySkan.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB4AAAA3AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB0AAACBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T13:01:26.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\packages\\BarCode.2024.7.2\\readme.txt",
               "RelativeDocumentMoniker": "packages\\BarCode.2024.7.2\\readme.txt",
@@ -143,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\Partials\\Product.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\Partials\\Product.cs",
@@ -155,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Another barcode font.ttf",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Resourses\\Another barcode font.ttf",
               "RelativeDocumentMoniker": "MarketWPF\\Resourses\\Another barcode font.ttf",
@@ -166,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\App.xaml",
               "RelativeDocumentMoniker": "MarketWPF\\App.xaml",
@@ -178,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BarCodeWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Windows\\BarCodeWindow.xaml.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Windows\\BarCodeWindow.xaml.cs",
@@ -191,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BarCodeWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Windows\\BarCodeWindow.xaml",
               "RelativeDocumentMoniker": "MarketWPF\\Windows\\BarCodeWindow.xaml",
@@ -203,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "HistroySkanPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Pages\\HistroySkanPage.xaml.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Pages\\HistroySkanPage.xaml.cs",
@@ -211,11 +242,12 @@
               "RelativeToolTip": "MarketWPF\\Pages\\HistroySkanPage.xaml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T12:06:39.808Z"
+              "WhenOpened": "2024-08-15T12:06:39.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ImageProduct.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\ImageProduct.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\ImageProduct.cs",
@@ -227,30 +259,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "AddProductWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Windows\\AddProductWindow.xaml.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Windows\\AddProductWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Windows\\AddProductWindow.xaml.cs",
               "RelativeToolTip": "MarketWPF\\Windows\\AddProductWindow.xaml.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAAAtAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T15:07:52.937Z"
+              "WhenOpened": "2024-08-14T15:07:52.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "AddProductWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Windows\\AddProductWindow.xaml",
               "RelativeDocumentMoniker": "MarketWPF\\Windows\\AddProductWindow.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Windows\\AddProductWindow.xaml",
               "RelativeToolTip": "MarketWPF\\Windows\\AddProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-14T15:06:29.983Z"
+              "WhenOpened": "2024-08-14T15:06:29.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ValidationLine.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Service\\ValidationLine.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Service\\ValidationLine.cs",
@@ -262,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 10,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "MarketWPF\\App.xaml.cs",
@@ -270,11 +304,12 @@
               "RelativeToolTip": "MarketWPF\\App.xaml.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:59:31.057Z"
+              "WhenOpened": "2024-08-14T14:59:31.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\Product.cs",
@@ -286,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "MetaProduct.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\MetaData\\MetaProduct.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\MetaData\\MetaProduct.cs",
@@ -298,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ListProductsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Pages\\ListProductsPage.xaml.cs",
               "RelativeDocumentMoniker": "MarketWPF\\Pages\\ListProductsPage.xaml.cs",
@@ -310,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ModelMarket.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Models\\ModelMarket.edmx",
               "RelativeDocumentMoniker": "MarketWPF\\Models\\ModelMarket.edmx",
@@ -321,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HistroySkanPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Pages\\HistroySkanPage.xaml",
               "RelativeDocumentMoniker": "MarketWPF\\Pages\\HistroySkanPage.xaml",
@@ -333,30 +368,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ListProductsPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Pages\\ListProductsPage.xaml",
               "RelativeDocumentMoniker": "MarketWPF\\Pages\\ListProductsPage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\Pages\\ListProductsPage.xaml",
               "RelativeToolTip": "MarketWPF\\Pages\\ListProductsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-14T14:35:39.107Z"
+              "WhenOpened": "2024-08-14T14:35:39.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\App.config",
-              "RelativeDocumentMoniker": "MarketWPF\\App.config",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\App.config",
-              "RelativeToolTip": "MarketWPF\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-14T14:27:16.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MarketWPF\\MainWindow.xaml",
@@ -367,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\Market\\MarketWPF\\MarketWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MarketWPF\\MainWindow.xaml.cs",
