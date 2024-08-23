@@ -18,34 +18,44 @@
 ### Desktop App
    1. Page with all products
    
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/8c4586f6-a9d8-45e3-99c6-0259cb3766fe)
+
 
    2. The window for adding/changing an item
    
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/b4734340-cef7-4237-b88b-9b379b3435e9)
+
 
    3. Product barcode (appears when you double-click on an item from the list)
    
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/cb41dc66-1fc3-4255-9e74-dc19550f2453)
+
 
    4. The history of scanning products with a schedule
    
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/67187fbf-49d7-48ad-8a8e-4c8454692b96)
 
 ## Mobule App
 1. Page with all products
    
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/db81c234-2650-4dfd-a67b-02b3cad0286c)
+
 
 2. The page of the selected product
    
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/f739ebff-a90c-43d9-acf5-c8860f86e416)
+
+
 
 3. Barcode scanning page 
    
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/6f2c7470-00e6-4f0d-85ae-77091f43082c)
+
+
 
 4. After the barcode is detected, the page is updated and the scanned product appears
    
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/705f4c4b-840a-44dd-b55f-6690f6d57b3f)
+
+
 
