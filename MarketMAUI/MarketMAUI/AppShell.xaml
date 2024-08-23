@@ -7,7 +7,7 @@
     xmlns:pages ="clr-namespace:MarketMAUI.Pages"
     Shell.FlyoutBehavior="Disabled"
     Title="MarketMAUI">
-
+        
     <FlyoutItem>
         <ShellContent
             Icon="home_icon.png"

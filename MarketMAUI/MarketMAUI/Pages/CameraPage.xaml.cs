@@ -49,13 +49,22 @@ public partial class CameraPage : ContentPage
 
     private void BStartCamera_Clicked(object sender, EventArgs e)
     {
-        cameraView.Camera = cameraView.Cameras.First();
-
-        MainThread.BeginInvokeOnMainThread(async () =>
+        try
         {
-            await cameraView.StartCameraAsync();
-        });
-        
+            cameraView.Camera = cameraView.Cameras.First();
+
+            MainThread.BeginInvokeOnMainThread(async () =>
+            {
+                await cameraView.StartCameraAsync();
+            });
+
+        }
+        catch
+        {
+
+        }
+
+
     }
 
     private void BFindProduct_Clicked(object sender, EventArgs e)

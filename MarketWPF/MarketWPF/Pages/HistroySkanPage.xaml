@@ -11,6 +11,8 @@
 
     <Grid>
         <DataGrid x:Name="DGHistory"
+                  FontSize="24"
+                  
                   AutoGenerateColumns="False"
                   ColumnWidth="auto"
                   IsReadOnly="True"
