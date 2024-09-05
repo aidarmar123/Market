@@ -13,11 +13,14 @@ namespace MarketMAUI.Service
         public static HttpClient httpClient = new HttpClient();
 
         public static async Task<T> Get<T>(string path)
-         {
-            var response = await httpClient.GetAsync(URL+path);
-            var content = await response.Content.ReadAsStringAsync();
-            var data = JsonConvert.DeserializeObject<T>(content);
-            return data;
+        {
+                var response = await httpClient.GetAsync(URL + path);
+                var content = await response.Content.ReadAsStringAsync();
+                var data = JsonConvert.DeserializeObject<T>(content);
+                return data;
+            
+           
+            
         }
 
         public static async Task<HttpResponseMessage> Post<T>(string path, T data)

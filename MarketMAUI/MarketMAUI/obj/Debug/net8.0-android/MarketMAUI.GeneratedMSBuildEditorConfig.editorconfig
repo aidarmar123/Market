@@ -12,65 +12,71 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MarketMAUI
-build_property.ProjectDir = C:\Users\Aidar\source\repos\Market\MarketMAUI\MarketMAUI\
+build_property.ProjectDir = C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/App.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/AppShell.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/MainPage.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Pages/CameraPage.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Pages/CameraPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.CameraPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\CameraPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\CameraPage.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Pages/CurrentProductPage.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Pages/CurrentProductPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.CurrentProductPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\CurrentProductPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\CurrentProductPage.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Pages/LoginPage.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Pages/ErrorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.ErrorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ErrorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ErrorPage.xaml
+
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Pages/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Pages/ProductsPage.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Pages/ProductsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.ProductsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\ProductsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ProductsPage.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Pages/RegistrPage.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Pages/RegistrPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Pages.RegistrPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\RegistrPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\RegistrPage.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Resources/Styles/Colors.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Aidar/source/repos/Market/MarketMAUI/MarketMAUI/Resources/Styles/Styles.xaml]
+[C:/Users/3D/Desktop/My works/Market/MarketMAUI/MarketMAUI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MarketMAUI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

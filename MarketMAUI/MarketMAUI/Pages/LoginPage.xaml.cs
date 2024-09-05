@@ -30,6 +30,7 @@ public partial class LoginPage : ContentPage
                 var jsonData = JsonConvert.SerializeObject(user);
                 //DataManager.InitDataFile(Path.Combine(FileSystem.Current.AppDataDirectory, "casheUser.json"),jsonData);
                 await Navigation.PushAsync(new AppShell());
+                
             }
             else
             {

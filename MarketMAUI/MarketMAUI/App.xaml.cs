@@ -5,11 +5,12 @@ using MarketMAUI.Models.MetaUser;
 using MarketMAUI.Models;
 using System.ComponentModel;
 
+
 namespace MarketMAUI
 {
     public partial class App : Application
     {
-        
+
         public App()
         {
             if (Device.RuntimePlatform == Device.WinUI)
@@ -19,11 +20,14 @@ namespace MarketMAUI
             else if (Device.RuntimePlatform == Device.Android)
             {
                 NetManager.URL = "http://127.0.0.1:55419/";
-                
+
             }
             RegistrationAllDescriptor();
             InitializeComponent();
             MainPage = new AppShell();
+            AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
+            
+
             //if (DataManager.contextUser == null)
             //{
             //    MainPage = new NavigationPage(new LoginPage());
@@ -32,9 +36,18 @@ namespace MarketMAUI
             //{
             //    MainPage = new AppShell();
             //}
-            
 
-            
+
+
+        }
+
+        private async void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+        {
+            await MainThread.InvokeOnMainThreadAsync(async () =>
+            {
+                await MainPage.Navigation.PushModalAsync(new ErrorPage(e.ExceptionObject.ToString()));
+            });
+
         }
 
         private void RegistrationAllDescriptor()

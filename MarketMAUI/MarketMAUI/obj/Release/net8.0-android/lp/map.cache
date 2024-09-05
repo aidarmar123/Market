@@ -158,3 +158,5 @@ Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Xamarin.Google.ErrorProne.Annotations.aar
+Camera.MAUI.dll
+Camera.MAUI.ZXing.dll

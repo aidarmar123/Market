@@ -14,8 +14,15 @@ public partial class ProductsPage : ContentPage
 
     private async void Refresh()
     {
-		await DataManager.Init();
-		LVProduct.ItemsSource = DataManager.products;
+		try
+		{
+            await DataManager.Init();
+            LVProduct.ItemsSource = DataManager.products;
+        }catch(Exception ex)
+		{
+			await Navigation.PushModalAsync(new ErrorPage(ex.ToString()));
+		}
+		
     }
 
     private async void LVProduct_ItemSelected(object sender, SelectedItemChangedEventArgs e)
