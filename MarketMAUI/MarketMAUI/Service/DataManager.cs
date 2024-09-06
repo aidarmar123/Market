@@ -60,12 +60,18 @@ namespace MarketMAUI.Service
 
         public static async Task Init()
         {
-            historySkans = await NetManager.Get<List<HistorySkan>>("api/HistorySkans");
-
-            products = await NetManager.Get<List<Product>>("api/Products");
-            imageProducts = await NetManager.Get<List<ImageProduct>>("api/ImageProducts");
-            roles = await NetManager.Get<List<Role>>("api/Roles");
-            users = await NetManager.Get<List<User>>("api/Users");
+            try
+            {
+                historySkans = await NetManager.Get<List<HistorySkan>>("api/HistorySkans");
+                products = await NetManager.Get<List<Product>>("api/Products");
+                imageProducts = await NetManager.Get<List<ImageProduct>>("api/ImageProducts");
+                roles = await NetManager.Get<List<Role>>("api/Roles");
+                users = await NetManager.Get<List<User>>("api/Users");
+            }catch (Exception ex)
+            {
+                new Exeption(ex.Message);
+            }
+            
         }
 
         public static async void InitDataFile(string output, string sourcer)

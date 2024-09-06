@@ -14,14 +14,10 @@ public partial class ProductsPage : ContentPage
 
     private async void Refresh()
     {
-		try
-		{
+		
             await DataManager.Init();
             LVProduct.ItemsSource = DataManager.products;
-        }catch(Exception ex)
-		{
-			await Navigation.PushModalAsync(new ErrorPage(ex.ToString()));
-		}
+       
 		
     }
 

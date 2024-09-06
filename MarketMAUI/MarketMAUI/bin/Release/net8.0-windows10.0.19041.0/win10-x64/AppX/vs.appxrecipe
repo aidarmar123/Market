@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Release\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-05T16:12:23.821</Modified>
+      <Modified>2024-09-06T15:56:28.330</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -39,11 +39,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.runtimeconfig.json">
       <PackagePath>MarketMAUI.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-05T16:04:44.795</Modified>
+      <Modified>2024-09-06T14:47:21.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\obj\Release\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MarketMAUI.exe</PackagePath>
-      <Modified>2024-09-05T16:12:22.846</Modified>
+      <Modified>2024-09-06T15:56:27.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -343,7 +343,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.deps.json">
       <PackagePath>MarketMAUI.deps.json</PackagePath>
-      <Modified>2024-09-05T16:04:44.792</Modified>
+      <Modified>2024-09-06T14:47:21.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -647,7 +647,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\MarketMAUI.dll">
       <PackagePath>MarketMAUI.dll</PackagePath>
-      <Modified>2024-09-05T16:12:23.743</Modified>
+      <Modified>2024-09-06T15:56:28.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.maui.controls.compatibility\8.0.82\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

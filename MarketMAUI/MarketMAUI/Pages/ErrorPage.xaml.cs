@@ -8,8 +8,8 @@ public partial class ErrorPage : ContentPage
 		ErrorMessageLabel.Text = errorMsg;
 	}
 
-    private async void Button_Clicked(object sender, EventArgs e)
+    private void Button_Clicked(object sender, EventArgs e)
     {
-		await Navigation.PopModalAsync();
+		App.Current.MainPage.Navigation.PopModalAsync();
     }
 }

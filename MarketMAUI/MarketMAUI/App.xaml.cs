@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using MarketMAUI.Models.MetaUser;
 using MarketMAUI.Models;
 using System.ComponentModel;
+using System.Diagnostics;
 
 
 namespace MarketMAUI
@@ -25,8 +26,9 @@ namespace MarketMAUI
             RegistrationAllDescriptor();
             InitializeComponent();
             MainPage = new AppShell();
-            AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
-            
+
+
+            AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException; 
 
             //if (DataManager.contextUser == null)
             //{
@@ -41,13 +43,23 @@ namespace MarketMAUI
 
         }
 
-        private async void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+        private void CurrentDomain_FirstChanceException(object? sender, System.Runtime.ExceptionServices.FirstChanceExceptionEventArgs e)
         {
-            await MainThread.InvokeOnMainThreadAsync(async () =>
-            {
-                await MainPage.Navigation.PushModalAsync(new ErrorPage(e.ExceptionObject.ToString()));
-            });
+            Debug.WriteLine($"***** Handling Unhandled Exception *****: {e.Exception.Message}");
+        }
 
+        private void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+        {
+            HandleException();
+
+        }
+        private void HandleException()
+        {
+            // Логирование ошибки
+            Console.WriteLine($"Unhandled exception: ");
+
+            // Отображение сообщения пользователю
+            MainPage.DisplayAlert("Error", "An unexpected error occurred.", "OK");
         }
 
         private void RegistrationAllDescriptor()

@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-05T16:02:41.763</Modified>
+      <Modified>2024-09-06T14:33:38.196</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -39,15 +39,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.runtimeconfig.json">
       <PackagePath>MarketMAUI.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-05T16:02:41.005</Modified>
+      <Modified>2024-09-06T08:46:16.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.dll">
       <PackagePath>MarketMAUI.dll</PackagePath>
-      <Modified>2024-09-05T16:02:39.465</Modified>
+      <Modified>2024-09-06T14:33:37.164</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MarketMAUI.exe</PackagePath>
-      <Modified>2024-09-05T16:02:39.536</Modified>
+      <Modified>2024-09-06T14:33:37.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -347,7 +347,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\Desktop\My works\Market\MarketMAUI\MarketMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MarketMAUI.deps.json">
       <PackagePath>MarketMAUI.deps.json</PackagePath>
-      <Modified>2024-09-05T16:02:40.873</Modified>
+      <Modified>2024-09-06T08:46:15.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\3D\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
