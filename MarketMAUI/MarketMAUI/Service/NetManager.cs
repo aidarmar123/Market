@@ -18,9 +18,6 @@ namespace MarketMAUI.Service
                 var content = await response.Content.ReadAsStringAsync();
                 var data = JsonConvert.DeserializeObject<T>(content);
                 return data;
-            
-           
-            
         }
 
         public static async Task<HttpResponseMessage> Post<T>(string path, T data)
@@ -36,6 +33,7 @@ namespace MarketMAUI.Service
             var response = await httpClient.PutAsync(URL + path, new StringContent(json, Encoding.UTF8, "application/json"));
             return response;
         }
+        
         public static async Task<HttpResponseMessage> Delete(string path)
         {
             var response = await httpClient.DeleteAsync(URL+path);
